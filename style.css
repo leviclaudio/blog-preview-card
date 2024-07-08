@@ -90,3 +90,17 @@ div .card{
     box-shadow: 15px 15px 0px 0px black;;
 
 }
+footer p, a{
+    
+    text-align: center;
+    text-decoration: none;
+    margin-top: -20px;
+    padding-bottom: 10px;
+}
+footer a{
+    color: #ffffff;
+    font-weight: bold;
+}
+footer a:hover{
+    color: #000000;
+}
