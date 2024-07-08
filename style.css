@@ -27,8 +27,8 @@ section{
 .card{
     background-color: #ffffff;
     
-    width: 340px;
-    height: 500px;
+    width: 345px;
+    height: 490px;
     border: 1px solid #000000;
     border-radius: 20px;
     box-shadow: 10px 8px 0px 0px #000000;
@@ -72,7 +72,7 @@ div .card{
 }
 .img_txt img{
     margin: 2px;
-    width: 40px;
+    width: 28px;
 }
 .img_txt p{
     
