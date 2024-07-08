@@ -14,6 +14,7 @@
 }
 body{
     background-color: hsl(47, 88%, 63%);
+    
 }
 section{
     display: flex;
@@ -25,9 +26,9 @@ section{
 }
 .card{
     background-color: #ffffff;
-    margin: auto;
-    width: 370px;
-    height: 520px;
+    
+    width: 340px;
+    height: 500px;
     border: 1px solid #000000;
     border-radius: 20px;
     box-shadow: 10px 8px 0px 0px #000000;
@@ -58,7 +59,7 @@ div .card{
 
 .txt_3 p{
     padding: 5px;
-    text-align: justify;
+    font-size: 14px;
     margin-top: 15px;
     
 }
